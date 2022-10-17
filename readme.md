@@ -21,7 +21,7 @@
    </br>
    </br>
    <a href="#-tecnologias-utilizadas">
-      <img alt="Figma" src="https://www.figma.com/file/FaOCQaoVx0WaoXHvmA9FlK/Ignate-Lab-Desing-System"/>
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img alt="Vite.js" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -87,7 +87,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 <img alt="Login UI" src=".github/images/login-page.png">
 
-O design do projeto foi desenvolvido no Figma, e pode ser acessado através do link: [**Ignite Lab - Design System**](https://www.figma.com/file/GtextqwoVpkKJrFD8Nt9IO/Ignite-Lab---Design-System?node-id=14%3A72).
+O design do projeto foi desenvolvido no Figma, e pode ser acessado através do link: [**Ignite Lab - Design System**](https://www.figma.com/file/FaOCQaoVx0WaoXHvmA9FlK/Ignate-Lab-Desing-System).
 
 ## 🎉 Demo
 
