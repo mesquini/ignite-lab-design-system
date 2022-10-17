@@ -21,7 +21,7 @@
    </br>
    </br>
    <a href="#-tecnologias-utilizadas">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img alt="Figma" src="https://www.figma.com/file/FaOCQaoVx0WaoXHvmA9FlK/Ignate-Lab-Desing-System"/>
       <img alt="Vite.js" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
