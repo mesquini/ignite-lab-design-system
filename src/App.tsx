@@ -1,8 +1,9 @@
+import { SignIn } from './pages/Signin'
 import './styles/global.css'
 
 export function App() {
 
   return (
-    <h1 className="font-bold text-2xl text-violet-500">hellow</h1>
+    <SignIn />
   )
 }

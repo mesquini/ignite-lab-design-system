@@ -1,11 +1,12 @@
 import * as CheckboxPrimitive from '@radix-ui/react-checkbox';
 import { Check } from 'phosphor-react'
 
-export interface ICheckboxProps {}
+export interface ICheckboxProps extends CheckboxPrimitive.CheckboxProps {}
 
-export const Checkbox: React.FC<ICheckboxProps> = ({ ...rest }) => {
+export const Checkbox: React.FC<ICheckboxProps> = (props) => {
   return (
     <CheckboxPrimitive.Root 
+    {...props}
       className='w-6 h-6 p-[2px] bg-gray-800 rounded'
     >
       <CheckboxPrimitive.Indicator asChild>

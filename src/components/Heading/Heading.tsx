@@ -5,10 +5,11 @@ import { clsx } from 'clsx';
 export interface IHeadingProps {
   size?: 'lg' | 'xl' | '2xl';
   children: ReactNode;
-  asChild?: boolean
+  asChild?: boolean;
+  className?: string
 }
 
-export const Heading: React.FC<IHeadingProps> = ({ asChild, size = 'md', children }) => {
+export const Heading: React.FC<IHeadingProps> = ({ asChild, size = 'md', children, className }) => {
   const Comp = asChild ? Slot : 'h2';
 
   return (
@@ -17,7 +18,8 @@ export const Heading: React.FC<IHeadingProps> = ({ asChild, size = 'md', childre
         'text-lg': size === 'lg',
         'text-xl': size === 'xl',
         'text-2xl': size === '2xl',
-      }
+      },
+      className
     )}>
       {children}
     </Comp>
